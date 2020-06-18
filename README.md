@@ -1,8 +1,8 @@
 ## Aplicacion de comandos
 
-Este es el ejercicio del curso 
+Tareas por hacer
 
-Recuerden instalar los paquetes de node
+Instalar los paquetes de node
 
 ```
 npm install
